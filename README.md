@@ -45,7 +45,8 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Final insights PDF report
 
 ## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn]([(https://www.linkedin.com/in/urwashi-thombre-78b749250/)]).
+For queries or collaboration, feel free to connect with me on  
+🔗 [LinkedIn – Urwashi Thombre](https://www.linkedin.com/in/urwashi-thombre-78b749250/)
 
 ## Author
 Urwashi Thombre  
